@@ -15,4 +15,3 @@ while guess != number:
         
 print("Congratulations")
 print("and thank you")
-

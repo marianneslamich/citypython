@@ -14,3 +14,5 @@ while guess != number:
         print("Your guess is too low")
         
 print("Congratulations")
+print("and thank you")
+
